@@ -149,12 +149,12 @@ ICN) derived from IATA codes.
 
 If you use these instances, please cite:
 
-    @article{li2025copositive,
-      title={An Exact Copositive Reformulation for Distributionally
-             Robust Aircraft Routing},
-      author={Li, Jingying and Shan, Wenxuan and Teo, Chung-Piaw},
-      year={2025}
-    }
+    @unpublished{li2026copositive,                                                                                     
+    author  = {Li, Jingying and Shan, Wenxuan and Teo, Chung-Piaw},
+    title   = {An Exact Copositive Reformulation for Distributionally Robust Aircraft Routing},                      
+    note    = {Submitted to Journal of Optimization Theory and Applications},                                        
+    year    = {2026}                                                                                                 
+    }   
 
 
 8. LICENSE
